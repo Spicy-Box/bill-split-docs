@@ -48,12 +48,5 @@ Trong các buổi ăn chung với bạn bè, đồng nghiệp hoặc đi du lị
 
 ---
 
-## 🚀 Công nghệ dự kiến  
-- 📱 **React Native / Flutter** cho đa nền tảng.  
-- ☁️ **Firebase** cho backend và đồng bộ dữ liệu.  
-- 🔍 **OCR API** để đọc bill từ ảnh.  
-
----
-
 ## 📌 Kết luận  
 Ứng dụng **Chia Tiền Ăn** 🥳 giúp việc chia chi phí trở nên **nhanh chóng – công bằng – minh bạch**, hạn chế xung đột và tăng trải nghiệm thoải mái cho mọi thành viên.  
