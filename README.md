@@ -1,52 +1,20 @@
-# 🍽️ Ứng dụng Chia Tiền Ăn
+# 📚 Split Bills Docs
 
-## 📖 Giới thiệu  
-Trong các buổi ăn chung với bạn bè, đồng nghiệp hoặc đi du lịch nhóm, việc **chia tiền** thường gây ra nhiều tranh cãi 😵.  
-Ứng dụng **Chia Tiền Ăn** ra đời nhằm:  
-✨ Tự động tính toán chi phí nhanh chóng.  
-✨ Hỗ trợ chia đều, chia theo món, chia theo tỉ lệ.  
-✨ Minh bạch và giảm mâu thuẫn trong nhóm.  
+## Giới thiệu
+Đây là repo lưu trữ **tài liệu và tài nguyên liên quan đến dự án Ứng dụng Chia Tiền Ăn**.  
+Mục tiêu của dự án là xây dựng một ứng dụng hỗ trợ việc **chia chi phí ăn uống, du lịch và sinh hoạt nhóm** một cách **công bằng – minh bạch – nhanh chóng**.
 
----
+## Nội dung repo
+- Lưu trữ các tài liệu nghiên cứu, khảo sát và phân tích.  
+- Lưu trữ draft/notes trong quá trình phát triển.  
+- Làm nền tảng để tổ chức và dẫn link sang Wiki.  
 
-## 🚨 Pain Point  
-- 🥘 Một số món gọi chung, một số món gọi riêng.  
-- 💰 Có thêm **thuế, phí dịch vụ, tip**.  
-- 🤯 Người này trả bill trước, người kia trả bill sau → khó minh bạch.  
-- 🔢 Vấn đề làm tròn số lẻ gây phiền toái.  
+## Wiki
+Chi tiết về dự án (tổng quan, khảo sát, so sánh giải pháp, thiết kế hệ thống, roadmap, …) được trình bày trong Wiki:  
+👉 [Xem Wiki của dự án](https://github.com/Spicy-Box/bill-split-docs/wiki)
 
----
-
-## 🎯 Mục tiêu  
-- ✅ Đơn giản, dễ dùng, nhập nhanh chóng.  
-- ✅ Xử lý tình huống phức tạp: chia đều, chia theo món, chia theo trọng số.  
-- ✅ Có thể **chụp bill** 📷 để hệ thống tự nhận diện món ăn.  
-- ✅ Đồng bộ nhóm: mọi người đều thấy rõ số tiền cần trả.  
-
----
-
-## 🛠️ Chức năng chính  
-- 📑 Nhập bill thủ công hoặc chụp ảnh bill để OCR.  
-- 👥 Chia tiền đều, chia theo món, hoặc chia theo tỉ lệ.  
-- 🧮 Làm tròn thông minh để tránh lẻ cắc.  
-- 📲 Ứng dụng đa nền tảng: **Android/iOS**.  
-
----
-
-## 👥 Đối tượng người dùng  
-- 🎓 **Sinh viên**: thường xuyên đi ăn chung, cần rõ ràng.  
-- 🏢 **Nhân viên văn phòng**: ăn trưa theo nhóm, có người ứng trước.  
-- ✈️ **Nhóm du lịch**: nhiều chi phí chung cần minh bạch.  
-
----
-
-## ⏰ Tình huống sử dụng  
-- 🍕 Đi ăn nhóm: nhiều món chung + riêng.  
-- ☕ Đi uống cafe/trà sữa: có người trả trước.  
-- 🏨 Thuê khách sạn/nhà nghỉ: chia phòng theo số người/ngày.  
-- 🚗 Đi du lịch nhóm: chia chi phí ăn uống, đi lại, vé tham quan.  
-
----
-
-## 📌 Kết luận  
-Ứng dụng **Chia Tiền Ăn** 🥳 giúp việc chia chi phí trở nên **nhanh chóng – công bằng – minh bạch**, hạn chế xung đột và tăng trải nghiệm thoải mái cho mọi thành viên.  
+## Đóng góp
+Nếu bạn quan tâm, có thể tham gia đóng góp bằng cách:
+- Tạo issue để thảo luận.  
+- Gửi pull request với chỉnh sửa/tài liệu mới.  
+- Tham gia mở rộng nội dung trong Wiki.  
