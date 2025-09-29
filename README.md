@@ -12,9 +12,3 @@ Mục tiêu của dự án là xây dựng một ứng dụng hỗ trợ việc 
 ## Wiki
 Chi tiết về dự án (tổng quan, khảo sát, so sánh giải pháp, thiết kế hệ thống, roadmap, …) được trình bày trong Wiki:  
 👉 [Xem Wiki của dự án](https://github.com/Spicy-Box/bill-split-docs/wiki)
-
-## Đóng góp
-Nếu bạn quan tâm, có thể tham gia đóng góp bằng cách:
-- Tạo issue để thảo luận.  
-- Gửi pull request với chỉnh sửa/tài liệu mới.  
-- Tham gia mở rộng nội dung trong Wiki.  
